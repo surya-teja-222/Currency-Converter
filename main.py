@@ -232,7 +232,7 @@ class App(tk.Tk):
         Label(self.canvz,text = stri ,font = ("bradley hand itc",15,'bold')).place(x=50,y = 50)
         import webbrowser
         def openweb1():
-            webbrowser.open("https://github.com/",new=1)
+            webbrowser.open("https://github.com/Team007s/Currency-Converter",new=1)
         def openweb2():
             webbrowser.open('https://www.airasia.co.in/content/air-asia/en/home',new=1)
         def openweb3():
